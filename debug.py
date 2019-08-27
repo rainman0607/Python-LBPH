@@ -6,7 +6,7 @@ cap.set(cv2.CAP_PROP_FRAME_WIDTH, 800)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 600)
 while True:
     # frame-by-frame
-    ret, frame = cap.read()
+    ret, frame = cap.read() 
 
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 

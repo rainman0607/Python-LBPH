@@ -28,6 +28,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -82,7 +83,7 @@
       <updated>1566927616329</updated>
       <workItem from="1566927617829" duration="1508000" />
       <workItem from="1566930443138" duration="2794000" />
-      <workItem from="1566939416578" duration="796000" />
+      <workItem from="1566939416578" duration="2851000" />
     </task>
     <servers />
   </component>
